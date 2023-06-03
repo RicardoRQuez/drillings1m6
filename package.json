@@ -1,0 +1,19 @@
+{
+  "name": "evaluacion_s1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "lodash": "^4.17.21",
+    "react": "^18.2.0",
+    "tiza": "^2.2.1",
+    "tslib": "^2.5.3"
+  }
+}
